@@ -1,0 +1,96 @@
+﻿<th>발행기관코드</th> , <td>GB035</td>
+<th>표준코드</th> , <td><strong class="type-00">KR103501GA68</strong></td>
+<th>채권분류</th> , <td>국고채권 (111100)</td>
+<th>상장여부</th> , <td>상장</td>
+<th>상장일</th> , <td>2020-03-31</td>
+<th>한글종목명</th> , <td class="last" colspan="3">국고채권 01000-2306(20-3)</td>
+<th>영문종목명</th> , <td class="last" colspan="3">KOREA TREASURY BOND 01000-2306(20-3)</td>
+<th>채권유형</th> , <td>국채</td>
+<th>발행금액</th> , <td>19,722,000,000,000</td>
+<th>발행통화</th> , <td>원화</td>
+<th>특이채권유형</th> , <td class="last" colspan="3">일반채권</td>
+<th>보증담보</th> , <td>무보증</td>
+<th>이자지급방법</th> , <td class="last" colspan="3">고정금리형-이표채</td>
+<th>발행방법</th> , <td>공모-직접발행</td>
+<th>크라우드펀딩여부</th> , <td>NO</td>
+<th>표면이자율 확정여부</th> , <td class="last" colspan="3">확정</td>
+<th>표면이자율(%)</th> , <td>1</td>
+<th>발행가액(%)</th> , <td class="last">100</td>
+<th>특이발행조건</th> , <td class="last" colspan="3"></td>
+<th>옵션</th> , <td></td>
+<th>상환방법</th> , <td class="last" colspan="3">만기상환</td>
+<th>물가연동구분</th> , <td>NO</td>
+<th>신종자본증권여부</th> , <td>NO</td>
+<th>유동화</th> , <td class="last" colspan="3"></td>
+<th>휴무관련(원금)</th> , <td class="last" colspan="3">직전영업일(경과이자없음)</td>
+<th>이자지급기준</th> , <td></td>
+<th>휴무관련(이자)</th> , <td class="last" colspan="3">직전영업일(경과이자없음)</td>
+<th>이자지급기준</th> , <td></td>
+<th>이자 선/후급</th> , <td>후급</td>
+<th>이자지급기준일구분</th> , <td>발행일</td>
+<th>이자원단위 미만처리</th> , <td>절사</td>
+<th>단수일이자기준</th> , <td></td>
+<th>발행전국채거래</th> , <td class="last" colspan="3">선매출시장</td>
+<th>매출형태</th> , <td>선매출</td>
+<th>선/후매출일</th> , <td>2020-03-31</td>
+<th>보장수익률(%)</th> , <td></td>
+<th>추가수익률(%)</th> , <td></td>
+<th>(전자)등록기관</th> , <td>한국은행</td>
+<th>대표주관회사</th> , <td></td>
+<th>신용평가기관1</th> , <td></td>
+<th>신용평가기관2</th> , <td></td>
+<th>신용평가기관3</th> , <td></td>
+<th>신용평가기관4</th> , <td></td>
+<th>CFI</th> , <td class="last" colspan="3">DBFUFB</td>
+<th>FISN</th> , <td class="last" colspan="3">KTB/1.0 Bd 20230610 Sr Ungtd</td>
+<th>권리구분</th> , <td class="last" colspan="2"></td>
+<th>누적여부</th> , <td class="last" colspan="2"></td>
+<th rowspan="8">행사조건</th> , <td class="last"></td>
+<th>행사가격</th> , <td class="last"></td>
+<th>행사비율(%)</th> , <td class="last"></td>
+<th>행사개시일</th> , <td class="last"></td>
+<th>행사종료일</th> , <td class="last"></td>
+<th>납입방법</th> , <td class="last"></td>
+<th>청구기관</th> , <td class="last"></td>
+<th>배당기산일구분</th> , <td class="last"></td>
+<th>이자율결정기준금리</th> , <td class="last" colspan="3">
+</td>
+<th>기타기준금리</th> , <td></td>
+<th>이자율결정시점</th> , <td></td>
+<th>최대이자율(%)</th> , <td></td>
+<th>Call 주체</th> , <td class="last" colspan="2"></td>
+<th>Call 사유</th> , <td class="last" colspan="2"></td>
+<th class="txc">차수</th> , None
+None , <td class="last txc" colspan="3" style="border:solid 1px; border-color:#cacaca;">데이터가 없습니다.</td>
+<th>Put 주체</th> , <td class="last" colspan="2"></td>
+<th>Put 사유</th> , <td class="last" colspan="2"></td>
+<th class="txc">차수</th> , None
+None , <td class="last txc" colspan="3" style="border:solid 1px; border-color:#cacaca;">데이터가 없습니다.</td>
+<th>균등상환액</th> , <td></td>
+<th>거치기간이자</th> , <td></td>
+<th class="txc">차수</th> , None
+None , <td class="last txc" colspan="5" style="border:solid 1px; border-color:#cacaca;">데이터가 없습니다.</td>
+<th rowspan="4">유동화</th> , <td class="last"></td>
+<th>담당자</th> , <td class="last"></td>
+<th>전화번호</th> , <td class="last"></td>
+<th>이메일</th> , <td class="last"></td>
+<th rowspan="4">자산보유자</th> , <td class="last"></td>
+<th>기관 2</th> , <td class="last"></td>
+<th>기관 3</th> , <td class="last"></td>
+<th>기타</th> , <td class="last"></td>
+<th rowspan="4">자산보유자 유형</th> , <td class="last"></td>
+<th>유형 2</th> , <td class="last"></td>
+<th>유형 3</th> , <td class="last"></td>
+<th>기타</th> , <td class="last"></td>
+<th rowspan="4">유동화자산 유형</th> , <td class="last"></td>
+<th>유형 2</th> , <td class="last"></td>
+<th>유형 3</th> , <td class="last"></td>
+<th>기타</th> , <td class="last"></td>
+<th colspan="2">유동화계획 발행총액</th> , <td class="last">0</td>
+<th colspan="2">유동화계획 총평가액</th> , <td class="last">0</td>
+<th rowspan="4">자산관리자</th> , <td class="last"></td>
+<th>기관 2</th> , <td class="last"></td>
+<th>기관 3</th> , <td class="last"></td>
+<th>기타</th> , <td class="last"></td>
+<th colspan="2">신용보강방법</th> , <td class="last"></td>
+<th colspan="2">기타메모</th> , <td class="last"></td>
